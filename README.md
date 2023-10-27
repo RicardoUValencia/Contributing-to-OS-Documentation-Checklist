@@ -3,7 +3,7 @@
 - **Community and Collaboration**
   - [ ] Does my project have a community section?
   - [ ] Is there a code of conduct established for contributors?
-  - [x] Are clear guidelines provided for first-time contributors?
+  - [ ] Are clear guidelines provided for first-time contributors?
 
 - **Documentation Structure**
   - [ ] Does the documentation have a logical and easily navigable structure?
@@ -26,12 +26,12 @@
   - [ ] Are periodic reviews of the documentation done to check its relevance and accuracy?
 
 - **Resources and Tools**
-  - [x] Are relevant tools and resources mentioned and linked in the documentation?
-  - [x] Are style guides or templates available for contributors?
-  - [x] Is a guide provided on how to set up the local environment for documentation, if necessary?
+  - [ ] Are relevant tools and resources mentioned and linked in the documentation?
+  - [ ] Are style guides or templates available for contributors?
+  - [ ] Is a guide provided on how to set up the local environment for documentation, if necessary?
 
 - **Internationalization and Localization**
-  - [x] Is the documentation available in multiple languages?
+  - [ ] Is the documentation available in multiple languages?
   - [ ] Are there guides for contributors wishing to translate or maintain documentation translations?
   - [ ] Are tools used to manage and streamline the translation process?
 
@@ -56,6 +56,6 @@
   - [ ] Are there mentorship programs or initiatives to assist new contributors in getting started?
 
 - **Consistency and Quality**
-  - [x] Is consistent language and tone used throughout the documentation?
-  - [x] Is there a peer-review process for contributions to the documentation?
-  - [x] Are standard writing and design practices followed to ensure a cohesive user experience?
+  - [ ] Is consistent language and tone used throughout the documentation?
+  - [ ] Is there a peer-review process for contributions to the documentation?
+  - [ ] Are standard writing and design practices followed to ensure a cohesive user experience?
